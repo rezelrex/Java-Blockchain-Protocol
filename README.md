@@ -27,9 +27,13 @@ Data Persistence: Java Object Serialization
 # Project Structure 
 
 ├── src/
+
 │   ├── Blockchain.java    # Core ledger logic, Block & Transaction classes
+
 │   └── P2PNode.java       # P2P Server/Client logic and Wallet management
+
 ├── .gitignore             # Prevents binary data from being committed
+
 └── README.md              # Project documentation
 
 
